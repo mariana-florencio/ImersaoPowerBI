@@ -34,3 +34,10 @@ A Agrofruits, uma empresa do setor agropecuário, busca otimizar sua estratégia
 
 
 ![dash_vendas](https://github.com/user-attachments/assets/3661cd55-ffa6-49e3-843a-e42e495ddde0)
+
+dash financeiro: https://app.powerbi.com/view?r=eyJrIjoiYWJhMjYxOWEtZmFlYy00Y2I3LWIwMDEtNTI4MmNkNDNlMGY3IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+dash logistico: https://app.powerbi.com/view?r=eyJrIjoiYzU1ZTU5ODYtMmFjZS00OTNiLThiMzctODE0MjI1NmY3NTRmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+dash vendas: https://app.powerbi.com/view?r=eyJrIjoiMTJhMmZmNWYtNjExMC00MTA3LTk2NjMtZTcyYTRlZjkyOGQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
